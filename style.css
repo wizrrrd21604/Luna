@@ -1,0 +1,135 @@
+*{
+  font-family: 'Lobster Two', cursive;
+}
+
+body{
+  background-color: #F5F5DC;
+}
+
+#d_with_the_top_elements {
+  display: flex;
+  position: fixed;
+  top: 0px;
+  background-color: white;
+  z-index: 1;
+}
+
+#d_with_the_logo {
+  margin-left: 5px;
+}
+
+#aa1{
+  font-size: 40px;
+  color:#702963;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+}
+
+a {
+  margin-left: 55px;
+  margin-right: 55px;
+  font-size: 30px;
+}
+
+#d_with_the_anchors {
+  margin-top: 15px;
+}
+
+#d_with_top_button {
+  margin-top: 10px;
+  margin-right: 150px;
+  margin-left: 35px;
+  padding: 8px;
+}
+
+#top_button {
+  color: white;
+  background-color: purple;
+  font-weight: bold;
+  width: 120px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+#head{
+  text-align: center;
+  color: lavender;
+  font-size: 220px;
+   letter-spacing: 3px;
+  position: relative;
+  margin-top: -400px;
+   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.d3 {
+  text-align: center;
+  margin-top: 150px;
+}
+
+.sh {
+  background-color: lavender;
+  margin: 5px;
+  padding: 5px;
+}
+
+.d4 {
+  display: flex;
+  flex-direction: row;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.bd {
+  color: white;
+  background-color: purple;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-left: 90px;
+}
+
+#bf {
+  display: flex;
+  flex-direction: row;
+}
+
+#sf {
+  display: flex;
+  flex-direction: column;
+}
+
+#b3 {
+  display: flex;
+  flex-direction: row;
+}
+
+#md {
+  margin-left: 400px;
+}
+
+
+
+.d4 {
+  display: flex;
+  flex-direction: row;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+
+.shh {
+  background-color: #CDC3B4;
+  margin: 5px;
+}
+
+
+.bdd {
+  color: white;
+  background-color: purple;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-left: 100px;
+}
+
+.shhh{
+  background-color: lavender;
+  margin-right: 10px;
+}
